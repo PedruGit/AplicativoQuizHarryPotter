@@ -1,1 +1,1 @@
-Prática da aula de Kotlin / Feito com ajuda de IA
+Este projeto foi feito nas aulas de Desenvolvimento de Aplicativo para um evento escolar, onde criamos um projeto que aprendemos com as aulas do curso. Nesse aplicativo foi usado o Google AI Studio para desenvolver o código, pela decisão do professor.
