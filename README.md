@@ -12,7 +12,7 @@ Este projeto foi desenvolvido para ser apresentado aos alunos da Escola Sandoval
 
 Antes de começar, você vai precisar ter instalado em sua máquina:
 
-[Kotlin](https://developer.android.com/studio?hl=pt-br)
+[Android Studio](https://developer.android.com/studio?hl=pt-br)
 
 ### Passo a Passo
 **Clone o repositório:**
